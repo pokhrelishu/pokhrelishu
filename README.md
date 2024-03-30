@@ -2,7 +2,7 @@
 - 👀 I’m interested in Marketing.
 - 😄 Pronouns: She/Her
 
-  ### [`Portfolio`](https://www.pokhrelishu.github.io) 
+  ### [`Portfolio`](https://pokhrelishu.github.io) 
 <!---
 - ⚡ Fun fact: 
 
